@@ -3,7 +3,7 @@ A pytorch implmentation of SAGAN (https://arxiv.org/abs/1805.08318) with relativ
 The main difference here is that we replace the hinge loss used in the SAGAN with relativistic loss.
 
 ## Sample Results
-<p align="center"><img width="80%" src="images/anime/3.png" /></p>
+<p align="center"><img width="50%" src="images/anime/3.png" /></p>
 
 ## Dependancies
 * Python 3.5+
@@ -22,7 +22,7 @@ cd images
 ```
 
 ## Acknowledgement/reference
-https://github.com/AlexiaJM/RelativisticGAN
-https://github.com/heykeetae/Self-Attention-GAN
-https://github.com/rosinality/sagan-pytorch
-https://github.com/eriklindernoren/PyTorch-GAN
+* https://github.com/AlexiaJM/RelativisticGAN
+* https://github.com/heykeetae/Self-Attention-GAN
+* https://github.com/rosinality/sagan-pytorch
+* https://github.com/eriklindernoren/PyTorch-GAN
