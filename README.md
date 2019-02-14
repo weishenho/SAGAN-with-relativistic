@@ -3,7 +3,8 @@ A pytorch implmentation of SAGAN (https://arxiv.org/abs/1805.08318) with relativ
 The main difference here is that we replace the hinge loss used in the SAGAN with relativistic loss.
 
 ## Sample Results
-<p align="center"><img width="50%" src="images/anime/3.png" /></p>
+
+[![](http://img.youtube.com/vi/-UpEQ4vPUng/0.jpg)](http://www.youtube.com/watch?v=-UpEQ4vPUng "")
 
 ## Dependancies
 * Python 3.5+
